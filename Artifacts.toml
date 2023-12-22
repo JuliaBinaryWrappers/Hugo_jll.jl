@@ -1,0 +1,143 @@
+[[Hugo]]
+arch = "aarch64"
+git-tree-sha1 = "93280382ab902aaa43764d5e088ef23ce2b7ce25"
+os = "macos"
+
+    [[Hugo.download]]
+    sha256 = "13e407ed6192ea93399ef9166dbb3d0b30353878cb302768c0a5d18ce5f8a472"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.aarch64-apple-darwin.tar.gz"
+[[Hugo]]
+arch = "aarch64"
+git-tree-sha1 = "3e9efce73ee237783de2eb467fb28d9e48c11b96"
+libc = "glibc"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "f472e571cb80161c59b558a083ac86a701b1423c91a07f504b2118e14eadf1e8"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.aarch64-linux-gnu.tar.gz"
+[[Hugo]]
+arch = "aarch64"
+git-tree-sha1 = "c27aba87adb18d2bc632964fe805133302500649"
+libc = "musl"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "697deb31fde68bc9fb38ea31a7932ad6fb1119bd2718a8b39f28deffe5521c09"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.aarch64-linux-musl.tar.gz"
+[[Hugo]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "acb6077a34e3f519f746c39fc76d83f6f70e0b96"
+libc = "glibc"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "9e02a8b6d80ac58cec0949a97878b9e37226c73293ee1acc70e1ff95cb7e6a9b"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.armv6l-linux-gnueabihf.tar.gz"
+[[Hugo]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e12f23200465143a50d850cb01aae7e01ae44bf9"
+libc = "musl"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "739a421932432599573ed4629a99524414271bd562489a31ea4799bdc2f83684"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.armv6l-linux-musleabihf.tar.gz"
+[[Hugo]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "85e3771fe0d1821d8b596b1d0a588af2946b3b36"
+libc = "glibc"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "6f24c94e0beccd55be10d58d6036983c63c4e6c8c5290e4c895faa8f222013d6"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.armv7l-linux-gnueabihf.tar.gz"
+[[Hugo]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8929087b43facd64299b9d7928d63e720f45285e"
+libc = "musl"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "1b5d21df8b8e50669d6a8824aa3121a1868239b3ae5f115258112dfb742d7414"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.armv7l-linux-musleabihf.tar.gz"
+[[Hugo]]
+arch = "i686"
+git-tree-sha1 = "06ba1a82180186bb31790f3090501efe94c8f012"
+libc = "glibc"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "26c373e967451f537d2a7bbe55acbca13bde92b2d44e8ee962a40f4ad947945b"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.i686-linux-gnu.tar.gz"
+[[Hugo]]
+arch = "i686"
+git-tree-sha1 = "24c0d4327c6d68afc12f73aaba2a9d1788f49f01"
+libc = "musl"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "3796f66853b85d41e3b0265c6c2a452bcd6b85c82c92fb974b4a624e276fd3cd"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.i686-linux-musl.tar.gz"
+[[Hugo]]
+arch = "i686"
+git-tree-sha1 = "eb518b5d4a4b0ad88fe97c5976ec50cb8671eeb3"
+os = "windows"
+
+    [[Hugo.download]]
+    sha256 = "c68591693b808f21dbf3e52adcd0c17c56181e04baed93fe5bc22b1b6a14ca17"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.i686-w64-mingw32.tar.gz"
+[[Hugo]]
+arch = "powerpc64le"
+git-tree-sha1 = "4f2fa21f0ee7df138748d2b4f8575dc7b8cfb22c"
+libc = "glibc"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "4fa0de765d5b4d78dae7bf2351d6f3c2620767e064895c4b34bda88299550257"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.powerpc64le-linux-gnu.tar.gz"
+[[Hugo]]
+arch = "x86_64"
+git-tree-sha1 = "8eeed29b64c9a6fd1e9845babf382dce92d6ccbc"
+os = "macos"
+
+    [[Hugo.download]]
+    sha256 = "212edc708e1c61461c225d2762c0fd84ebcdff556df30a78a650283f0a0815ef"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.x86_64-apple-darwin.tar.gz"
+[[Hugo]]
+arch = "x86_64"
+git-tree-sha1 = "7b56349e2ae5f98bfdb5b9ed8ddb017ebfc3b696"
+libc = "glibc"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "d16a265cc691acf1f0982a3858b44d39f9cb17c1395dd11b12beb5828291547c"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.x86_64-linux-gnu.tar.gz"
+[[Hugo]]
+arch = "x86_64"
+git-tree-sha1 = "2850552d81cc5d1e3b4c64f5bb6e35307804b4e7"
+libc = "musl"
+os = "linux"
+
+    [[Hugo.download]]
+    sha256 = "29a971e44d547cd204a65c876702373fb4e356750d1e0e69dbe072350eee68fd"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.x86_64-linux-musl.tar.gz"
+[[Hugo]]
+arch = "x86_64"
+git-tree-sha1 = "f1b22a31d57ec8be8f340ffff86bf3171ba5838f"
+os = "freebsd"
+
+    [[Hugo.download]]
+    sha256 = "392d6d0f6f7fb461a4168dedd9592b65a087086f0c6749f022cf7b427d87ca22"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.x86_64-unknown-freebsd.tar.gz"
+[[Hugo]]
+arch = "x86_64"
+git-tree-sha1 = "bcc7de5aba23a40fe3a70ee9c2bdabcbbbac07d6"
+os = "windows"
+
+    [[Hugo.download]]
+    sha256 = "da0434860b5ff349e6b24b4d751161ff1ec53bb641426703d76c372088d21796"
+    url = "https://github.com/JuliaBinaryWrappers/Hugo_jll.jl/releases/download/Hugo-v0.118.2+0/Hugo.v0.118.2.x86_64-w64-mingw32.tar.gz"
